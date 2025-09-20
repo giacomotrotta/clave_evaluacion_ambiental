@@ -1,0 +1,104 @@
+[
+  {
+    "id": "s1",
+    "scientificName": "Cortaderia selloana",
+    "description": "Plumeru de la Pampa. Gramínea de gran tamaño, con penachos plumosos muy visibles. Originaria de América del Sur, invasora de gran impacto en la región cantábrica.",
+    "imageResName": "cortaderia_selloana"
+  },
+  {
+    "id": "s2",
+    "scientificName": "Erica ciliaris",
+    "description": "Brezo o gorbiza. Arbusto bajo. Flores rosadas, en racimos espiciformes, corola curvada de 8–12 mm. Especie característica de los brezales atlánticos.",
+    "imageResName": "erica_ciliaris"
+  },
+  {
+    "id": "s3",
+    "scientificName": "Erica mackayana",
+    "description": "Brezo o gorbiza. Arbusto bajo. Flores rosadas, inflorescencias en umbela apical. Especie característica de los brezales atlánticos, especialmente de los húmedos.",
+    "imageResName": "erica_mackayana"
+  },
+  {
+    "id": "s4",
+    "scientificName": "Erica cinerea",
+    "description": "Brezo o gorbiza. Arbusto bajo. Flores rosadas o violáceas; arbusto generalmente < 1 m. Especie característica de los brezales atlánticos, especialmente de los secos.",
+    "imageResName": "erica_cinerea"
+  },
+  {
+    "id": "s5",
+    "scientificName": "Erica arborea",
+    "description": "Brezo o uz. Arbusto de gran porte. Flores blancas; arbusto ≥ 1 m. Especie que forma parte del matorral de orla dentro de la sucesión de los bosques mixtos cantábricos.",
+    "imageResName": "erica_arborea"
+  },
+  {
+    "id": "s6",
+    "scientificName": "Calluna vulgaris",
+    "description": "Brecina o beriza. Arbusto bajo. Flores blanquecinas, hojas escuamiformes opuestas e imbricadas; cálices petaloides. Especie característica de los brezales atlánticos.",
+    "imageResName": "calluna_vulgaris"
+  },
+  {
+    "id": "s7",
+    "scientificName": "Daboecia cantabrica",
+    "description": "Brezo cantábrico o alguerina. Arbusto bajo. Corolas urceoladas tetrámeras; envés de las hojas blanquecino. Especie característica de los brezales cantábricos. Subendémica de la región cantábrica, muy representativa d enuestra flora.",
+    "imageResName": "daboecia_cantabrica"
+  },
+  {
+    "id": "s8",
+    "scientificName": "Pinus radiata",
+    "description": "Pino de Monterrey. Árbol que se reproduce por piñas (conífera). Acículas en fascículos de 3; conos marcadamente asimétricos. Originario de California, se planta para madera por toda la región cantábrica, y puede tener comportamiento invasor.",
+    "imageResName": "pinus_radiata"
+  },
+  {
+    "id": "s9",
+    "scientificName": "Pinus pinaster",
+    "description": "Pino marítimo. Árbol que se reproduce por piñas (conífera). Acículas en fascículos de 2. Nativo de la región cantábrica, pero se ha plantado de forma masiva para madera, por lo que resulta difícil identificar bosques naturales de esta especie. En la naturaleza forma bosquetes muy abiertos cerca de la costa, en acantilados y otros terrenos muy pendientes y con suelo pobre.",
+    "imageResName": "pinus_pinaster"
+  },
+  {
+    "id": "s10",
+    "scientificName": "Pteridium aquilinum",
+    "description": "Helecho o felechu. Reproducción por esporas, crecimiento muy expansivo por rizomas. Especie típica de las orlas forestales, que forma parte de la sucesión de los bosques mixtos cantábricos.",
+    "imageResName": "pteridium_aquilinum"
+  },
+  {
+    "id": "s11",
+    "scientificName": "Rubus ulmifolius",
+    "description": "Zarzamora, arto o bardiu. Arbusto espinoso. Tallos espinosos, hoja palmado-compuesta o palmatisecta. Especie típica de las orlas forestales, que forma parte de la sucesión de los bosques mixtos cantábricos.",
+    "imageResName": "rubus_ulmifolius"
+  },
+  {
+    "id": "s12",
+    "scientificName": "Ulex europaeus",
+    "description": "Tojo, árgoma o cotolla. Arbusto espinoso. Flores amarillas, bractéolas ≥ 1,5 mm, cáliz con pelos patentes. Especie típica de las orlas forestales, que forma parte de la sucesión de los bosques mixtos cantábricos.",
+    "imageResName": "ulex_europaeus_aggr"
+  },
+  {
+    "id": "s13",
+    "scientificName": "Ulex minor",
+    "description": "Tojo, árgoma o cotolla. Arbusto espinoso. Flores amarillas, bractéolas < 1,5 mm, cáliz con pelos aplicados. Especie típica de los brezales atlánticos, especialmente de los más secos.",
+    "imageResName": "ulex_minor_aggr"
+  },
+  {
+    "id": "s14",
+    "scientificName": "Quercus robur",
+    "description": "Roble pedunculado o carbayu. Árbol de gran porte. Hojas lobuladas; bellotas con pedúnculos largos. Árbol dominante en la estapa madura de los bosques mixtos cantábricos, con un importante significado cultural.",
+    "imageResName": "quercus_robur"
+  },
+  {
+    "id": "s15",
+    "scientificName": "Betula celtiberica",
+    "description": "Abedul, bidul o abeduriu. Árbol de corteza blanquecina. Hojas romboidales. Árbol pionero que forma prebosques, dentro de la sucesión de los bosques mixtos cantánricos.",
+    "imageResName": "betula_celtiberica"
+  },
+  {
+    "id": "s16",
+    "scientificName": "Salix atrocinerea",
+    "description": "Sauce o salguera. Arbusto o arbolillo ramificado desde la base. Hojas de haz verde, envés blanco-tomentoso. Arbolillo o arbusto pionero que forma prebosques, dentro de la sucesión de los bosques mixtos cantánricos.",
+    "imageResName": "salix_atrocinerea"
+  },
+  {
+    "id": "s17",
+    "scientificName": "Castanea sativa",
+    "description": "Castaño o castañal. Árbol de gran porte. Fruto (castaña) con envoltura espinosa (erizo). Árbol dominante junto al roble en la estapa madura de los bosques mixtos cantábricos. Al igual que el roble, tiene un importante significado cultural. Ha sido favorecido por los seres humanos para la producción de madera y castañas.",
+    "imageResName": "castanea_sativa"
+  }
+]

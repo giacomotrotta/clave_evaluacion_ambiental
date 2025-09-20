@@ -1,0 +1,229 @@
+{
+  "root": "n1",
+  "nodes": [
+    {
+      "id": "n1",
+      "prompt": "Forma de vida de la planta",
+      "options": [
+        {
+          "label": "Herbácea, sin partes leñosas",
+          "next": "n2"
+        },
+        {
+          "label": "Árbol o arbusto, con partes leñosas",
+          "next": "n3"
+        }
+      ]
+    },
+    {
+      "id": "n2",
+      "prompt": "Planta con flores o helecho",
+      "options": [
+        {
+          "label": "Planta con hojas cortantes que se reproduce mediante plumeros blancos",
+          "speciesId": "s1"
+        },
+        {
+          "label": "Planta con hojas (frondes) muy divididas, que surgen del suelo, y sin flores",
+          "speciesId": "s10"
+        }
+      ]
+    },
+    {
+      "id": "n3",
+      "prompt": "Planta con conos (gimnospermas) o con flores (angiospermas)",
+      "options": [
+        {
+          "label": "Árboles con hojas en forma de agujas (acículas), que se reproduce mediante conos leñosos (piñas)",
+          "next": "n4"
+        },
+        {
+          "label": "Árboles o arbustos con hojas de otras características, que se reproducen por flores",
+          "next": "n5"
+        }
+      ]
+    },
+    {
+      "id": "n4",
+      "prompt": "Número de hojas (acículas) por fascículo",
+      "options": [
+        {
+          "label": "Hojas con forma de aguja (acículas) agrupadas en fascículos de dos en dos, piñas simétricas",
+          "speciesId": "s9"
+        },
+        {
+          "label": "Hojas con forma de aguja (acículas) agrupadas en fascículos de tres en tres, piñas asimétricas",
+          "speciesId": "s8"
+        }
+      ]
+    },
+    {
+      "id": "n5",
+      "prompt": "Plantas con o sin espinas",
+      "options": [
+        {
+          "label": "Plantas con espinas",
+          "next": "n6"
+        },
+        {
+          "label": "Plantas sin espinas",
+          "next": "n8"
+        }
+      ]
+    },
+    {
+      "id": "n6",
+      "prompt": "Plantas con espinas, con o sin hojas",
+      "options": [
+        {
+          "label": "Plantas con espinas y con hojas",
+          "speciesId": "s11"
+        },
+        {
+          "label": "Plantas sólo con espinas, sin hojas aparentes",
+          "next": "n7"
+        }
+      ]
+    },
+    {
+      "id": "n7",
+      "prompt": "Tipo de flores",
+      "options": [
+        {
+          "label": "Flores amarillas, con una escama (bracteóla) grande en la base, con pelos visibles a contraluz",
+          "speciesId": "s12"
+        },
+        {
+          "label": "Flores amarillas, con una escama (bracteóla) muy pequeña en la base, sin pelos visibles a contraluz",
+          "speciesId": "s11"
+        }
+      ]
+    },
+    {
+      "id": "n8",
+      "prompt": "Altura de la planta",
+      "options": [
+        {
+          "label": "Arbustos bajos, de menos de un metro de altura",
+          "next": "n9"
+        },
+        {
+          "label": "Árboles o arbustos altos, de más de un metro de altura",
+          "next": "n13"
+        }
+      ]
+    },
+    {
+      "id": "n9",
+      "prompt": "Tipo de hoja y flor",
+      "options": [
+        {
+          "label": "Hojas en forma de escamas (escuamiformes), muy pequeñas, superpuestas como las tejas de un tejado; flores blanquecinas",
+          "speciesId": "s6"
+        },
+        {
+          "label": "Hojas con otra forma; flores rosadas",
+          "next": "n10"
+        }
+      ]
+    },
+    {
+      "id": "n10",
+      "prompt": "Envés de la hoja",
+      "options": [
+        {
+          "label": "Hojas con el envés blanco",
+          "speciesId": "s7"
+        },
+        {
+          "label": "Hojas sin el envés blanco, o con el envés apenas visible",
+          "next": "n11"
+        }
+      ]
+    },
+    {
+      "id": "n11",
+      "prompt": "Hojas con o sin cilios",
+      "options": [
+        {
+          "label": "Hojas con largos pelos (cilios)",
+          "next": "n12"
+        },
+        {
+          "label": "Hojas sin largos pelos",
+          "speciesId": "s4"
+        }
+      ]
+    },
+    {
+      "id": "n12",
+      "prompt": "Disposición y forma de las flores",
+      "options": [
+        {
+          "label": "Flores que parecen salir de un mismo punto (en umbela), más pequeñas y simétricas",
+          "speciesId": "s3"
+        },
+        {
+          "label": "Flores más distribuidas a lo largo del tallo, más grandes y asimétricas",
+          "speciesId": "s2"
+        }
+      ]
+    },
+    {
+      "id": "n13",
+      "prompt": "Tipo de hojas",
+      "options": [
+        {
+          "label": "Arbusto ramificado desde la base, con hojas muy estrechas y pequeñas, flores blancas en forma de urna",
+          "speciesId": "s5"
+        },
+        {
+          "label": "Árbol o arbusto con hojas más anchas y grandes, sin flores blancas en forma de urna",
+          "next": "s14"
+        }
+      ]
+    },
+    {
+      "id": "n14",
+      "prompt": "Hojas lobuladas o no",
+      "options": [
+        {
+          "label": "Hojas lobuladas, con el margen a la manera de una onda",
+          "speciesId": "s14"
+        },
+        {
+          "label": "Hojas no lobuladas",
+          "next": "n15"
+        }
+      ]
+    },
+    {
+      "id": "n15",
+      "prompt": "Hojas romboidales o no",
+      "options": [
+        {
+          "label": "Hojas romboidales",
+          "speciesId": "s15"
+        },
+        {
+          "label": "Hojas no romboidales",
+          "next": "n16"
+        }
+      ]
+    },
+    {
+      "id": "n16",
+      "prompt": "Características de las hojas",
+      "options": [
+        {
+          "label": "Hoja verde por el haz y blanco-tomentosa por el envés, con el margen sin dientes (entero)",
+          "speciesId": "s16"
+        },
+        {
+          "label": "Hoja con el envés no blanco-tomentoso, con el margen con dientes (serrado); frutos envueltos en una cubierta espinosa (castañas y erizos)",
+          "speciesId": "s17"
+        }
+      ]
+    }
+  ]
+}
