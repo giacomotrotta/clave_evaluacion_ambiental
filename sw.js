@@ -1,7 +1,7 @@
 
 // Service Worker per la PWA della chiave
 // ↑ Incrementa questa versione ad ogni aggiornamento per forzare il refresh
-const CACHE = 'clave-cache-v3.2';
+const CACHE = 'clave-cache-v3.2.1';
 
 const ASSETS = [
   './',
