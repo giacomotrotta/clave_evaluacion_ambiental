@@ -115,14 +115,14 @@
     },
     {
       "id": "n9",
-      "prompt": "Tipo de hoja y flor",
+      "prompt": "Tipo de hoja",
       "options": [
         {
-          "label": "Hojas en forma de escamas (escuamiformes), muy pequeñas, superpuestas como las tejas de un tejado; flores blanquecinas",
+          "label": "Hojas en forma de escamas (escuamiformes), muy pequeñas, superpuestas como las tejas de un tejado",
           "speciesId": "s6"
         },
         {
-          "label": "Hojas con otra forma; flores rosadas",
+          "label": "Hojas con otra forma",
           "next": "n10"
         }
       ]
