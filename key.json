@@ -129,14 +129,14 @@
     },
     {
       "id": "n10",
-      "prompt": "Envés de la hoja",
+      "prompt": "Disposición de las hojas",
       "options": [
         {
-          "label": "Hojas con el envés blanco",
+          "label": "Saliendo separadas a lo largo del tallo (alternas)",
           "speciesId": "s7"
         },
         {
-          "label": "Hojas sin el envés blanco, o con el envés apenas visible",
+          "label": "Saliendo en grupos de un mismo punto del tallo (verticiladas)",
           "next": "n11"
         }
       ]
@@ -146,11 +146,11 @@
       "prompt": "Hojas con o sin cilios",
       "options": [
         {
-          "label": "Hojas con largos pelos (cilios)",
+          "label": "Hojas con pelos (cilios)",
           "next": "n12"
         },
         {
-          "label": "Hojas sin largos pelos",
+          "label": "Hojas sin pelos",
           "speciesId": "s4"
         }
       ]
